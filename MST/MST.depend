@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543725467 source:c:\users\evan.lee\documents\competitive programming\mst\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

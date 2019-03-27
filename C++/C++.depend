@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548218196 source:c:\users\evan.lee\documents\competitive programming\c++\main.cpp
+	<iostream>
+	<cstring>
+	<utility>
+
+1548987895 source:c:\users\evan.lee\documents\competitive programming\c++\template.cpp
+	<bits/stdc++.h>
+

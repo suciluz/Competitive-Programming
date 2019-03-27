@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543273734 source:c:\users\evan.lee\documents\competitive programming\arrivaltime\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

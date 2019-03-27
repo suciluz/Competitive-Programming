@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542043823 source:c:\users\evan.lee\documents\competitive programming\robothieves_\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543081084 source:c:\users\evan.lee\documents\competitive programming\disjointsettest\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

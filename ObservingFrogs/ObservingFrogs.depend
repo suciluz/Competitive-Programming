@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542605747 source:c:\users\evan.lee\documents\competitive programming\observingfrogs\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

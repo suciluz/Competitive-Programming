@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542168042 source:c:\users\evan.lee\documents\competitive programming\boostercushions\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<math.h>
+

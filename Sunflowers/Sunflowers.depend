@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543257343 source:c:\users\evan.lee\documents\competitive programming\sunflowers\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

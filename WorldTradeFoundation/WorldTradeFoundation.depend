@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542605451 source:c:\users\evan.lee\documents\competitive programming\worldtradefoundation\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542380007 source:c:\users\evan.lee\documents\competitive programming\safesquare\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549148686 source:c:\users\evan.lee\documents\competitive programming\theoddnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543211652 source:c:\users\evan.lee\documents\competitive programming\animeconventions\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
